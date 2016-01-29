@@ -1,2 +1,4 @@
 # hello-world
-Just the hello-world example
+
+
+hello-world ist an example to learn Git and GitHub.
